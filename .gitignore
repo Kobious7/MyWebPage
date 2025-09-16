@@ -1,0 +1,46 @@
+# =======================
+# Global
+# =======================
+node_modules/
+dist/
+build/
+bin/
+obj/
+.vscode/
+.vs/
+*.user
+*.suo
+*.swp
+*.tmp
+*.log
+*.DS_Store
+Thumbs.db
+
+# =======================
+# Angular (frontend)
+# =======================
+/frontend/my-app/node_modules/
+/frontend/my-app/dist/
+/frontend/my-app/.angular/cache/
+/frontend/my-app/.angular/
+*.ngsummary.json
+
+# =======================
+# .NET (backend)
+# =======================
+/backend/WithDB/**/bin/
+/backend/WithDB/**/obj/
+/backend/WithDB/.vs/
+/backend/WithDB/.idea/
+/backend/WithDB/.user
+/backend/WithDB/.suo
+/backend/WithDB/.cache/
+/backend/WithDB/.nuget/
+
+# =======================
+# Environment / secrets
+# =======================
+*.env
+*.secret.json
+appsettings.Development.json
+appsettings.Local.json
