@@ -53,24 +53,24 @@ This project for learning Angular, .Net.
     * Run Project and Test API, you can aslo test with Postman.
     
 * Front-end:
-      * [Visual Studio Code](https://code.visualstudio.com/)
-      * [Node.js](https://nodejs.org/fr/download)
+    * [Visual Studio Code](https://code.visualstudio.com/)
+    * [Node.js](https://nodejs.org/fr/download)
 
-      * Angular:
-          * After installing these sofwares: Open Command Prompt in Windows or Terminal in VS Code:
-              * With Terminal in VS Code by default, terminal is PowerShell, this can make error or warning if you install Angular without providing permission for PowerShell. The fastest way: Click to Down arrow icon and choose Command Prompt.
-                  ```
-                  npm install -g @angular/cli@20
-                  ```
-          * After installing Angular check the current Angular version:
-              ```
-              ng version
-              ```
+    * Angular:
+        * After installing these sofwares: Open Command Prompt in Windows or Terminal in VS Code:
+            * With Terminal in VS Code by default, terminal is PowerShell, this can make error or warning if you install Angular without providing permission for PowerShell. The fastest way: Click to Down arrow icon and choose Command Prompt.
+                ```
+                npm install -g @angular/cli@20
+                ```
+        * After installing Angular check the current Angular version:
+            ```
+            ng version
+            ```
 
-      * In VS Code: Choose File -> Open Folder -> Go to project folder -> frontend -> Choose myapp and Open
-          * Install Dependency: cd to myapp. In termial, run: npm install
-          * After: ng serve
-          * Open broswer: http://localhost:4200 or you can click to link in terminal.
+    * In VS Code: Choose File -> Open Folder -> Go to project folder -> frontend -> Choose myapp and Open
+        * Install Dependency: cd to myapp. In termial, run: npm install
+        * After: ng serve
+        * Open broswer: http://localhost:4200 or you can click to link in terminal.
 
 Now, you are done. And can test the project.
 
