@@ -1,7 +1,10 @@
 # MyWebPage
 This project for learning Angular, .Net.
+
 -Introduce: This is my Angular project, I make this project with supporting of AI - ChatGPT. Purpose of this project: Learing Angular and .Net.
+
 -Technology: Angular v20, .NET 8, 9, SQL Server.
+
 -Setup:
     +Backend: 
         Installing: 
@@ -56,6 +59,7 @@ This project for learning Angular, .Net.
             Open broswer: http://localhost:4200 or you can click to link in terminal.
 
 Now, you are done. And can test the project.
+
 See demo: https://youtu.be/VzjXG97gbNc?si=8K-7DFJ4dI7oc9K4
             
 -Main Functions: product CRUD, login, signup.
