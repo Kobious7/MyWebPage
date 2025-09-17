@@ -1,7 +1,7 @@
 # MyWebPage
 This project for learning Angular, .Net.
 
-## Introduce: This is my Angular project, I make this project with supporting of AI - ChatGPT. Purpose of this project: Learing Angular and .Net.
+## Introduce: This is my Angular project, I make this project with supporting of AI - ChatGPT. Purpose of this project: Learning Angular and .Net.
 
 ## Technology: Angular v20, .NET 8, SQL Server.
 
@@ -17,7 +17,7 @@ This project for learning Angular, .Net.
         * Open Visual Studio -> Open a project or solution -> Go to project folder -> backend/WithDB/WithDB.sln -> Click Open.
         * Check NuGet Package: 
             * Tools -> NuGet Package Manager -> Manage NuGet Package for Solution... -> Installed
-            * Check whether this project have files that listed below. If not, move to Browse find and instal with the lastest version.
+            * Check whether this project have files that listed below. If not, move to Browse find and install with the lastest version.
                 * Microsoft.AspNetCore.Authentication.JwtBearer
                 * Microsoft.EntityFrameworkCore
                 * Microsoft.EntityFrameworkCore.SqlServer
